@@ -1,1 +1,27 @@
 
+{
+  "spec": 1,
+  "name": "Blinky Star",
+  "main": {
+    "ggsans-400-normal": "https://githubusercontent.com",
+    "ggsans-400-italic": "https://githubusercontent.com",
+    "ggsans-500-normal": "https://githubusercontent.com",
+    "ggsans-500-italic": "https://githubusercontent.com",
+    "ggsans-600-normal": "https://githubusercontent.com",
+    "ggsans-600-italic": "https://githubusercontent.com",
+    "ggsans-700-normal": "https://githubusercontent.com",
+    "ggsans-700-italic": "https://githubusercontent.com",
+    "ggsans-800-normal": "https://githubusercontent.com",
+    "ggsans-800-italic": "https://githubusercontent.com",
+    "NotoSans-400-normal": "https://githubusercontent.com",
+    "NotoSans-400-italic": "https://githubusercontent.com",
+    "NotoSans-500-normal": "https://githubusercontent.com",
+    "NotoSans-500-italic": "https://githubusercontent.com",
+    "NotoSans-600-normal": "https://githubusercontent.com",
+    "NotoSans-600-italic": "https://githubusercontent.com",
+    "NotoSans-700-normal": "https://githubusercontent.com",
+    "NotoSans-700-italic": "https://githubusercontent.com",
+    "NotoSans-800-normal": "https://githubusercontent.com",
+    "NotoSans-800-italic": "https://githubusercontent.com"
+  }
+}
